@@ -1,0 +1,15 @@
+$textcolor = red;
+h1{
+  background-color: white;
+  text-align: center;
+  text-decoration: underline;
+
+}
+ body{
+   background-color: black;
+
+ }
+ h2{
+   color: $textcolor;
+   text-align: center;
+ }
